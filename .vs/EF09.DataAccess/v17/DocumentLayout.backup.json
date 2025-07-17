@@ -1,0 +1,588 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{935203A7-FCC7-406F-95B6-4C2007C441F0}|TableValuedFunction\\TableValuedFunction.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\tablevaluedfunction\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935203A7-FCC7-406F-95B6-4C2007C441F0}|TableValuedFunction\\TableValuedFunction.csproj|solutionrelative:tablevaluedfunction\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935203A7-FCC7-406F-95B6-4C2007C441F0}|TableValuedFunction\\TableValuedFunction.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\tablevaluedfunction\\entities\\orderbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935203A7-FCC7-406F-95B6-4C2007C441F0}|TableValuedFunction\\TableValuedFunction.csproj|solutionrelative:tablevaluedfunction\\entities\\orderbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935203A7-FCC7-406F-95B6-4C2007C441F0}|TableValuedFunction\\TableValuedFunction.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\tablevaluedfunction\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935203A7-FCC7-406F-95B6-4C2007C441F0}|TableValuedFunction\\TableValuedFunction.csproj|solutionrelative:tablevaluedfunction\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935203A7-FCC7-406F-95B6-4C2007C441F0}|TableValuedFunction\\TableValuedFunction.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\tablevaluedfunction\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935203A7-FCC7-406F-95B6-4C2007C441F0}|TableValuedFunction\\TableValuedFunction.csproj|solutionrelative:tablevaluedfunction\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FEEAB4-68E3-4DA2-B11D-F754F2EA32CF}|MappingView\\MappingView.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\mappingview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FEEAB4-68E3-4DA2-B11D-F754F2EA32CF}|MappingView\\MappingView.csproj|solutionrelative:mappingview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FEEAB4-68E3-4DA2-B11D-F754F2EA32CF}|MappingView\\MappingView.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\mappingview\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FEEAB4-68E3-4DA2-B11D-F754F2EA32CF}|MappingView\\MappingView.csproj|solutionrelative:mappingview\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FEEAB4-68E3-4DA2-B11D-F754F2EA32CF}|MappingView\\MappingView.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\mappingview\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FEEAB4-68E3-4DA2-B11D-F754F2EA32CF}|MappingView\\MappingView.csproj|solutionrelative:mappingview\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935203A7-FCC7-406F-95B6-4C2007C441F0}|TableValuedFunction\\TableValuedFunction.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\tablevaluedfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935203A7-FCC7-406F-95B6-4C2007C441F0}|TableValuedFunction\\TableValuedFunction.csproj|solutionrelative:tablevaluedfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935203A7-FCC7-406F-95B6-4C2007C441F0}|TableValuedFunction\\TableValuedFunction.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\tablevaluedfunction\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935203A7-FCC7-406F-95B6-4C2007C441F0}|TableValuedFunction\\TableValuedFunction.csproj|solutionrelative:tablevaluedfunction\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935203A7-FCC7-406F-95B6-4C2007C441F0}|TableValuedFunction\\TableValuedFunction.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\tablevaluedfunction\\entities\\orderwithdetailsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935203A7-FCC7-406F-95B6-4C2007C441F0}|TableValuedFunction\\TableValuedFunction.csproj|solutionrelative:tablevaluedfunction\\entities\\orderwithdetailsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FEEAB4-68E3-4DA2-B11D-F754F2EA32CF}|MappingView\\MappingView.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\mappingview\\entities\\orderwithdetailsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FEEAB4-68E3-4DA2-B11D-F754F2EA32CF}|MappingView\\MappingView.csproj|solutionrelative:mappingview\\entities\\orderwithdetailsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FEEAB4-68E3-4DA2-B11D-F754F2EA32CF}|MappingView\\MappingView.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\mappingview\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FEEAB4-68E3-4DA2-B11D-F754F2EA32CF}|MappingView\\MappingView.csproj|solutionrelative:mappingview\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FEEAB4-68E3-4DA2-B11D-F754F2EA32CF}|MappingView\\MappingView.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\mappingview\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FEEAB4-68E3-4DA2-B11D-F754F2EA32CF}|MappingView\\MappingView.csproj|solutionrelative:mappingview\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3940-CEC5-45B3-AB7D-05037233CFCB}|IncludeEntities\\IncludeEntities.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\includeentities\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADD3940-CEC5-45B3-AB7D-05037233CFCB}|IncludeEntities\\IncludeEntities.csproj|solutionrelative:includeentities\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3940-CEC5-45B3-AB7D-05037233CFCB}|IncludeEntities\\IncludeEntities.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\includeentities\\entities\\auditentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADD3940-CEC5-45B3-AB7D-05037233CFCB}|IncludeEntities\\IncludeEntities.csproj|solutionrelative:includeentities\\entities\\auditentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3940-CEC5-45B3-AB7D-05037233CFCB}|IncludeEntities\\IncludeEntities.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\includeentities\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADD3940-CEC5-45B3-AB7D-05037233CFCB}|IncludeEntities\\IncludeEntities.csproj|solutionrelative:includeentities\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3940-CEC5-45B3-AB7D-05037233CFCB}|IncludeEntities\\IncludeEntities.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\includeentities\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADD3940-CEC5-45B3-AB7D-05037233CFCB}|IncludeEntities\\IncludeEntities.csproj|solutionrelative:includeentities\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3940-CEC5-45B3-AB7D-05037233CFCB}|IncludeEntities\\IncludeEntities.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\includeentities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADD3940-CEC5-45B3-AB7D-05037233CFCB}|IncludeEntities\\IncludeEntities.csproj|solutionrelative:includeentities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3940-CEC5-45B3-AB7D-05037233CFCB}|IncludeEntities\\IncludeEntities.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\includeentities\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADD3940-CEC5-45B3-AB7D-05037233CFCB}|IncludeEntities\\IncludeEntities.csproj|solutionrelative:includeentities\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5EE38C-73FB-4FA0-80AA-C51FB6161A58}|ExcludeEntities\\ExcludeEntities.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\excludeentities\\excludeentities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F5EE38C-73FB-4FA0-80AA-C51FB6161A58}|ExcludeEntities\\ExcludeEntities.csproj|solutionrelative:excludeentities\\excludeentities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD48C620-DA71-4730-AA56-A5E6A7010168}|BasicSetup\\BasicSetup.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\basicsetup\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD48C620-DA71-4730-AA56-A5E6A7010168}|BasicSetup\\BasicSetup.csproj|solutionrelative:basicsetup\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5EE38C-73FB-4FA0-80AA-C51FB6161A58}|ExcludeEntities\\ExcludeEntities.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\excludeentities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5EE38C-73FB-4FA0-80AA-C51FB6161A58}|ExcludeEntities\\ExcludeEntities.csproj|solutionrelative:excludeentities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5EE38C-73FB-4FA0-80AA-C51FB6161A58}|ExcludeEntities\\ExcludeEntities.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\excludeentities\\entities\\snapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5EE38C-73FB-4FA0-80AA-C51FB6161A58}|ExcludeEntities\\ExcludeEntities.csproj|solutionrelative:excludeentities\\entities\\snapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5EE38C-73FB-4FA0-80AA-C51FB6161A58}|ExcludeEntities\\ExcludeEntities.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\excludeentities\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5EE38C-73FB-4FA0-80AA-C51FB6161A58}|ExcludeEntities\\ExcludeEntities.csproj|solutionrelative:excludeentities\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5EE38C-73FB-4FA0-80AA-C51FB6161A58}|ExcludeEntities\\ExcludeEntities.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\excludeentities\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5EE38C-73FB-4FA0-80AA-C51FB6161A58}|ExcludeEntities\\ExcludeEntities.csproj|solutionrelative:excludeentities\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5EE38C-73FB-4FA0-80AA-C51FB6161A58}|ExcludeEntities\\ExcludeEntities.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\excludeentities\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5EE38C-73FB-4FA0-80AA-C51FB6161A58}|ExcludeEntities\\ExcludeEntities.csproj|solutionrelative:excludeentities\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5EE38C-73FB-4FA0-80AA-C51FB6161A58}|ExcludeEntities\\ExcludeEntities.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\excludeentities\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5EE38C-73FB-4FA0-80AA-C51FB6161A58}|ExcludeEntities\\ExcludeEntities.csproj|solutionrelative:excludeentities\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD48C620-DA71-4730-AA56-A5E6A7010168}|BasicSetup\\BasicSetup.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\basicsetup\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD48C620-DA71-4730-AA56-A5E6A7010168}|BasicSetup\\BasicSetup.csproj|solutionrelative:basicsetup\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD48C620-DA71-4730-AA56-A5E6A7010168}|BasicSetup\\BasicSetup.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\basicsetup\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD48C620-DA71-4730-AA56-A5E6A7010168}|BasicSetup\\BasicSetup.csproj|solutionrelative:basicsetup\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD48C620-DA71-4730-AA56-A5E6A7010168}|BasicSetup\\BasicSetup.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\basicsetup\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD48C620-DA71-4730-AA56-A5E6A7010168}|BasicSetup\\BasicSetup.csproj|solutionrelative:basicsetup\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD48C620-DA71-4730-AA56-A5E6A7010168}|BasicSetup\\BasicSetup.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\basicsetup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD48C620-DA71-4730-AA56-A5E6A7010168}|BasicSetup\\BasicSetup.csproj|solutionrelative:basicsetup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD48C620-DA71-4730-AA56-A5E6A7010168}|BasicSetup\\BasicSetup.csproj|c:\\users\\training.3\\source\\repos\\ef09.dataaccess\\basicsetup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD48C620-DA71-4730-AA56-A5E6A7010168}|BasicSetup\\BasicSetup.csproj|solutionrelative:basicsetup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 176,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\TableValuedFunction\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "TableValuedFunction\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\TableValuedFunction\\Entities\\Product.cs",
+              "RelativeToolTip": "TableValuedFunction\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:24:11.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderWithDetailsView.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\TableValuedFunction\\Entities\\OrderWithDetailsView.cs",
+              "RelativeDocumentMoniker": "TableValuedFunction\\Entities\\OrderWithDetailsView.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\TableValuedFunction\\Entities\\OrderWithDetailsView.cs",
+              "RelativeToolTip": "TableValuedFunction\\Entities\\OrderWithDetailsView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:24:04.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\TableValuedFunction\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "TableValuedFunction\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\TableValuedFunction\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "TableValuedFunction\\Entities\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:23:52.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\TableValuedFunction\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "TableValuedFunction\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\TableValuedFunction\\Entities\\Order.cs",
+              "RelativeToolTip": "TableValuedFunction\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:23:37.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderBill.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\TableValuedFunction\\Entities\\OrderBill.cs",
+              "RelativeDocumentMoniker": "TableValuedFunction\\Entities\\OrderBill.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\TableValuedFunction\\Entities\\OrderBill.cs",
+              "RelativeToolTip": "TableValuedFunction\\Entities\\OrderBill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:12:06.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\TableValuedFunction\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TableValuedFunction\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\TableValuedFunction\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TableValuedFunction\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wCYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:11:56.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\TableValuedFunction\\Program.cs",
+              "RelativeDocumentMoniker": "TableValuedFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\TableValuedFunction\\Program.cs",
+              "RelativeToolTip": "TableValuedFunction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:10:40.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderWithDetailsView.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\MappingView\\Entities\\OrderWithDetailsView.cs",
+              "RelativeDocumentMoniker": "MappingView\\Entities\\OrderWithDetailsView.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\MappingView\\Entities\\OrderWithDetailsView.cs",
+              "RelativeToolTip": "MappingView\\Entities\\OrderWithDetailsView.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:02:23.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\MappingView\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "MappingView\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\MappingView\\Entities\\Product.cs",
+              "RelativeToolTip": "MappingView\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:01:11.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\MappingView\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "MappingView\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\MappingView\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "MappingView\\Entities\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:00:56.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\MappingView\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "MappingView\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\MappingView\\Entities\\Order.cs",
+              "RelativeToolTip": "MappingView\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:00:50.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\MappingView\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MappingView\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\MappingView\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MappingView\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:00:38.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\MappingView\\Program.cs",
+              "RelativeDocumentMoniker": "MappingView\\Program.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\MappingView\\Program.cs",
+              "RelativeToolTip": "MappingView\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:59:35.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuditEntry.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\IncludeEntities\\Entities\\AuditEntry.cs",
+              "RelativeDocumentMoniker": "IncludeEntities\\Entities\\AuditEntry.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\IncludeEntities\\Entities\\AuditEntry.cs",
+              "RelativeToolTip": "IncludeEntities\\Entities\\AuditEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:46:59.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\IncludeEntities\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "IncludeEntities\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\IncludeEntities\\Entities\\Product.cs",
+              "RelativeToolTip": "IncludeEntities\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:42:40.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\IncludeEntities\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "IncludeEntities\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\IncludeEntities\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "IncludeEntities\\Entities\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:42:23.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\IncludeEntities\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "IncludeEntities\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\IncludeEntities\\Entities\\Order.cs",
+              "RelativeToolTip": "IncludeEntities\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:42:09.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\IncludeEntities\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "IncludeEntities\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\IncludeEntities\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "IncludeEntities\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:41:56.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\IncludeEntities\\Program.cs",
+              "RelativeDocumentMoniker": "IncludeEntities\\Program.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\IncludeEntities\\Program.cs",
+              "RelativeToolTip": "IncludeEntities\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:40:07.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExcludeEntities",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\ExcludeEntities\\ExcludeEntities.csproj",
+              "RelativeDocumentMoniker": "ExcludeEntities\\ExcludeEntities.csproj",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\ExcludeEntities\\ExcludeEntities.csproj",
+              "RelativeToolTip": "ExcludeEntities\\ExcludeEntities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-17T08:39:40.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Snapshot.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\ExcludeEntities\\Entities\\Snapshot.cs",
+              "RelativeDocumentMoniker": "ExcludeEntities\\Entities\\Snapshot.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\ExcludeEntities\\Entities\\Snapshot.cs",
+              "RelativeToolTip": "ExcludeEntities\\Entities\\Snapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:34:08.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\ExcludeEntities\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ExcludeEntities\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\ExcludeEntities\\Entities\\Product.cs",
+              "RelativeToolTip": "ExcludeEntities\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:32:01.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\ExcludeEntities\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "ExcludeEntities\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\ExcludeEntities\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "ExcludeEntities\\Entities\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:31:49.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\ExcludeEntities\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "ExcludeEntities\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\ExcludeEntities\\Entities\\Order.cs",
+              "RelativeToolTip": "ExcludeEntities\\Entities\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:31:29.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\ExcludeEntities\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ExcludeEntities\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\ExcludeEntities\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ExcludeEntities\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:29:15.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\ExcludeEntities\\Program.cs",
+              "RelativeDocumentMoniker": "ExcludeEntities\\Program.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\ExcludeEntities\\Program.cs",
+              "RelativeToolTip": "ExcludeEntities\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:28:53.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\BasicSetup\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "BasicSetup\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\BasicSetup\\Entities\\Product.cs",
+              "RelativeToolTip": "BasicSetup\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:17:44.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\BasicSetup\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "BasicSetup\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\BasicSetup\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "BasicSetup\\Entities\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:17:36.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\BasicSetup\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "BasicSetup\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\BasicSetup\\Entities\\Order.cs",
+              "RelativeToolTip": "BasicSetup\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:16:59.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\BasicSetup\\appsettings.json",
+              "RelativeDocumentMoniker": "BasicSetup\\appsettings.json",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\BasicSetup\\appsettings.json",
+              "RelativeToolTip": "BasicSetup\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T08:05:59.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\BasicSetup\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BasicSetup\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\BasicSetup\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BasicSetup\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:05:27.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\BasicSetup\\Program.cs",
+              "RelativeDocumentMoniker": "BasicSetup\\Program.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF09.DataAccess\\BasicSetup\\Program.cs",
+              "RelativeToolTip": "BasicSetup\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:04:36.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
